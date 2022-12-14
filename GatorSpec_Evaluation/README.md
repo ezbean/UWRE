@@ -1,0 +1,1 @@
+This folder is for the supplementary material for the publication titled "Evaluation of Low-Cost UV-Vis Spectroscopy for Measuring Nitrate in Synthetic Samples", which has been submitted for publication in the Journal of the ASABE.
